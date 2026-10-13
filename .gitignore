@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.nc
+*.zip
+ABoVE_Arctic_CAP_1658/
+.DS_Store
