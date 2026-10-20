@@ -1,6 +1,3 @@
-﻿.venv/
-*.nc
-ABoVE_Arctic_CAP_1658/
-*.zip
-copernicup.ipynb
-copernicus_12h.ipynb
+*
+!.gitignore
+!copernicus_winds.ipynb
